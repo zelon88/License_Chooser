@@ -1,7 +1,7 @@
 # License_Chooser
 A simple web-app for displaying the license availability of my projects for interested potential customers.
 
-*[OFFICIAL WEBSITE (Try HRCloud2!)](https://honestrepair.net)*
+*[OFFICIAL WEBSITE (Try License Chooser!)](https://honestrepair.net)*
 -----------------------------------------------
 
 # Screenshots
