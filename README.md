@@ -6,3 +6,4 @@ A simple web-app for displaying the license availability of my projects for inte
 
 # Screenshots
 ![License Chooser](https://github.com/zelon88/License_Chooser/blob/master/Screenshots/License_Chooser-1.png)	
+![License Chooser](https://github.com/zelon88/License_Chooser/blob/master/Screenshots/License_Chooser-2.png)	
