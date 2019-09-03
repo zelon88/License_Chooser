@@ -1,6 +1,13 @@
 COMMIT 9/3/2019 - v0.8.
 Justin Grimes
 
+-v0.9.
+-Add text about obtaining free license upgrades by contributing to HonestRepair open source software.
+
+--------------------
+COMMIT 9/3/2019 - v0.8.
+Justin Grimes
+
 -v0.8.
 -Add $chosenApplication variable to UI-2.
 -Add comments to config.php.

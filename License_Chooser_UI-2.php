@@ -19,6 +19,10 @@
 
   <br />
   <hr />
+
+  <p>You may quality for <strong>FREE</strong> License upgrades by submitting code, bug reports, vulnerabilities, or other contributions to HonestRepair Open-Source software.</p>
+  <br />
+  <hr />
 </div>
 
 <div style="text-align:center; float:center;">
