@@ -1,7 +1,7 @@
 <?php include_once('header.php'); ?>
 
 <div style="text-align:center; float:center;">
-  <h1>Available Licenses</h1>
+  <h1>Available Licenses for <?php echo $chosenApplication; ?></h1>
 
   <h3><?php echo $availableLicensesEcho; ?></h3>
 </div>

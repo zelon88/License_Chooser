@@ -1,3 +1,10 @@
+COMMIT 9/3/2019 - v0.8.
+Justin Grimes
+
+-v0.8.
+-Add $chosenApplication variable to UI-2.
+-Add comments to config.php.
+
 --------------------
 COMMIT 9/3/2019 - v0.7.
 Justin Grimes

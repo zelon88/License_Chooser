@@ -27,7 +27,7 @@ else require_once ('config.php');
 
 // / -----------------------------------------------------------------------------------
 // / The following code defined variables for the session.
-$Version = 'v0.7';
+$Version = 'v0.8';
 $bsdAvailable = $mitAvailable = $availableLicensesEcho = FALSE;
 $bsdEcho = "<p>This software is not currently available with a BSD License, but keep checking back! Special licensing may also be available upon request.</p>";
 $mitEcho = "<p>This software is not currently available with an MIT License, but keep checking back! Special licensing may also be available upon request.</p>";
@@ -38,6 +38,7 @@ $mitEcho = "<p>This software is not currently available with an MIT License, but
 if (isset($_POST['LicenseSubmit'])) { 
     foreach ($applicationChoices as $key=>$applicationChoice) { 
       if ($applicationChoice[0] == $_POST['ApplicationChoices']) {
+        $chosenApplication = $applicationChoice[0];
         $bsdAvailable = $applicationChoice[1];
         $mitAvailable = $applicationChoice[2];
         $bsdPrice = $applicationChoice[3];
