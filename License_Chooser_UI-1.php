@@ -22,6 +22,9 @@
       <option title='Storage_Monitor' value='Storage_Monitor'>Storage_Monitor</option>
       <option title='Accessibility_Tools_Defender' value='Accessibility_Tools_Defender'>Accessibility_Tools_Defender</option>
       <option title='Remote_Executor' value='Remote_Executor'>Remote_Executor</option>
+      <option title='Registry_Monitor' value='Registry_Monitor'>Registry_Monitor</option>
+      <option title='ScanCore' value='ScanCore'>ScanCore</option>
+      <option title='Sharer' value='Sharer'>Sharer</option>
     </select>
 
     <select name='LicenseChoices' id='LicenseChoices'>

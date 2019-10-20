@@ -43,8 +43,12 @@ $CFURL = 'https://www.honestrepair.net/index.php/contact-us/';
 
 // / ------------------------------ 
 // / Variable Information
+  // / The $applicationChoices array is multi-dimensional.
+  // / This array is full of arrays, each one representing a piece of software.
+  // / Each array within this array contains the name of a piece of software, 
+  // / BSD availability, MIT availability, BSD pricing, and MIT pricing.
 $applicationChoices = array(
- array('HRCloud2', TRUE, TRUE, 100, 500),
+ array('HRCloud2'/*Software Name*/, TRUE/*BSD Availability*/, TRUE/*MIT Availability*/, 100/*BSD Price*/, 500/*MIT Price*/),
  array('HRCloud2-App-Pack', TRUE, TRUE, 50, 100),
  array('HRConvert2', TRUE, TRUE, 25, 100),
  array('HRScan2', TRUE, TRUE, 25, 100),
@@ -56,6 +60,9 @@ $applicationChoices = array(
  array('Infrastructure_Checkup', TRUE, TRUE, 25, 50),
  array('Resource_Monitor', TRUE, TRUE, 25, 50),
  array('Storage_Monitor', TRUE, TRUE, 25, 50),
- array('Accessibility_Tools_Defender', TRUE, TRUE, 50, 100),
- array('Remote_Executor', TRUE, TRUE, 50, 100) );
+ array('Accessibility_Tools_Defender', TRUE, TRUE, 25, 100),
+ array('Remote_Executor', TRUE, TRUE, 25, 100),
+ array('Registry_Monitor', TRUE, TRUE, 25, 50),
+ array('ScanCore', TRUE, TRUE, 25, 100),
+ array('Sharer', TRUE, TRUE, 25, 100) );
 // / ------------------------------ 
