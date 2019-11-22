@@ -27,7 +27,7 @@ else require_once ('config.php');
 
 // / -----------------------------------------------------------------------------------
 // / The following code defined variables for the session.
-$Version = 'v0.9';
+$Version = 'v1.0';
 $bsdAvailable = $mitAvailable = $availableLicensesEcho = FALSE;
 $bsdEcho = "<p>This software is not currently available with a BSD License, but keep checking back! Special licensing may also be available upon request.</p>";
 $mitEcho = "<p>This software is not currently available with an MIT License, but keep checking back! Special licensing may also be available upon request.</p>";

@@ -57,6 +57,7 @@ $applicationChoices = array(
  array('Re-Limiter', TRUE, TRUE, 10, 25),
  array('Workstation_USB_Monitor', TRUE, TRUE, 10, 25),
  array('Ransomware_Defender', TRUE, TRUE, 50, 100),
+ array('Meterpreter_Defender', TRUE, TRUE, 50, 100),
  array('Infrastructure_Checkup', TRUE, TRUE, 25, 50),
  array('Resource_Monitor', TRUE, TRUE, 25, 50),
  array('Storage_Monitor', TRUE, TRUE, 25, 50),

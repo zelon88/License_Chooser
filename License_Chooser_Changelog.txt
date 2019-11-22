@@ -1,3 +1,10 @@
+COMMIT 10/20/2019 - v1.0
+Justin Grimes
+
+-v1.0.
+-Add Meterpreter_Defender.
+
+--------------------
 COMMIT 10/20/2019 - v0.9.
 Justin Grimes
 
